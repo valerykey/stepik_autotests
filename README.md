@@ -1,2 +1,3 @@
 # stepik_autotests
-https://stepik.org/lesson/187065/step/7?unit=161976
+
+Репозиторий для хранения домашек по крусу https://stepik.org/course/575/syllabus
